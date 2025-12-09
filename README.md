@@ -16,6 +16,6 @@ Compatible with modern TensorFlow / Keras
 4️⃣ Model Training
 5️⃣ Evaluation
 6️⃣ Prediction
-7️⃣ Predicting Images Based On Our Model
+7️⃣ Prediction Images That Made Manually
 
 Visualization: Results are displayed as a message of the predection like "the prediction is"
