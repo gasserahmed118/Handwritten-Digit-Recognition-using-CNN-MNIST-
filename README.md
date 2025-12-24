@@ -1,6 +1,7 @@
 🧠 Handwritten Digit Recognition using CNN (MNIST)
 
 📌 Overview
+
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits (0–9) using the MNIST dataset. The model is trained on grayscale images of size 28×28 pixels and achieves high accuracy through effective feature extraction using convolutional layers. The project demonstrates a complete deep learning workflow from data preprocessing to model evaluation and real-world prediction.
 
 🎯 Objectives
