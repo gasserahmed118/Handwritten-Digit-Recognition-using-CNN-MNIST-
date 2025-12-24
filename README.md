@@ -38,7 +38,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
      3. Label distribution analysis
      4. Sample digit visualization
 
-   Data validation confirmed:
+    Data validation confirmed:
      1. No missing values
      2. Balanced label distribution
 
