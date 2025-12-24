@@ -57,6 +57,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
    4. Flatten
    5. Dense layers
    6. Softmax output layer
+
 Optimizer: RMSprop
 Loss Function: Categorical Cross-Entropy
 Metric: Accuracy    
